@@ -14,6 +14,7 @@
 		A6B0487F2CADEC7D006CB79E /* GutierrezColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A6B0487D2CADEC7D006CB79E /* GutierrezColeccionDeJuegos.xcdatamodeld */; };
 		A6B048812CADEC82006CB79E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6B048802CADEC82006CB79E /* Assets.xcassets */; };
 		A6B048842CADEC82006CB79E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6B048822CADEC82006CB79E /* LaunchScreen.storyboard */; };
+		A6B0488C2CADF676006CB79E /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6B0488B2CADF676006CB79E /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A6B048802CADEC82006CB79E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6B048832CADEC82006CB79E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6B048852CADEC82006CB79E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6B0488B2CADF676006CB79E /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A6B048822CADEC82006CB79E /* LaunchScreen.storyboard */,
 				A6B048852CADEC82006CB79E /* Info.plist */,
 				A6B0487D2CADEC7D006CB79E /* GutierrezColeccionDeJuegos.xcdatamodeld */,
+				A6B0488B2CADF676006CB79E /* JuegosViewController.swift */,
 			);
 			path = GutierrezColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6B0488C2CADF676006CB79E /* JuegosViewController.swift in Sources */,
 				A6B048792CADEC7D006CB79E /* ViewController.swift in Sources */,
 				A6B0487F2CADEC7D006CB79E /* GutierrezColeccionDeJuegos.xcdatamodeld in Sources */,
 				A6B048752CADEC7D006CB79E /* AppDelegate.swift in Sources */,
